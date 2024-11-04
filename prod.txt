@@ -7,3 +7,5 @@ PS C:\Users\91636\Desktop\Devops> git clone https://github.com/rajsingh0202/devo
 PS C:\Users\91636\Desktop\Devops> cd devops  
 
 changes done
+
+finished
