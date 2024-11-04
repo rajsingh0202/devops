@@ -5,3 +5,5 @@ PS C:\Users\91636\Desktop\Devops> git config --global user.name "rajsingh0202"
 PS C:\Users\91636\Desktop\Devops> git config --global user.email "rajsinghrathour222003@gmail.com"
 PS C:\Users\91636\Desktop\Devops> git clone https://github.com/rajsingh0202/devops.git
 PS C:\Users\91636\Desktop\Devops> cd devops  
+
+changes done
